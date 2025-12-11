@@ -1,0 +1,7 @@
+{
+  "name": "SmartCourier",
+  "description": "AI-powered logistics tool for small courier companies to optimize packaging, simulate container loading in 3D, and calculate shipping costs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
